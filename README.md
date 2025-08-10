@@ -61,7 +61,3 @@ for support, feedback, or feature requests:
 ## license
 
 simplyMail is proprietary software. all rights reserved.
-
-<p align="center">
-  <strong>Built with ❤️ for better email management</strong>
-</p>
