@@ -1,0 +1,1 @@
+# simplyMail-releases
