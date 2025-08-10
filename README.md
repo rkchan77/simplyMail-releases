@@ -1,80 +1,66 @@
-# 📧 SimplyMail - Releases
+# simplyMail - releases.
 
-**Download the latest version of SimplyMail email client**
+**download the latest version of SimplyMail email client.**
 
-> This repository contains public releases for SimplyMail
+> this repository contains public releases for simplyMail.
 
----
+## download simplyMail.
 
-## 🚀 Download SimplyMail
+### latest release: v1.0.0 (MVP)
 
-### Latest Release: v1.0.0 (MVP)
+| Platform | Download |
+|----------|----------|
+| **macOS** | [Download .dmg](https://github.com/rkchan77/simplymail-releases/releases/download/v1.0.0/SimplyMail-1.0.0.dmg) |
 
-| Platform | Download | Size |
-|----------|----------|------|
-| **macOS** | [Download .dmg](https://github.com/yourusername/simplymail-releases/releases/download/v1.0.0/SimplyMail-1.0.0.dmg) | ~XX MB |
----
 
-## ✨ About SimplyMail
+## about simplyMail.
 
-SimplyMail is a modern, lightweight email client built with Electron. Designed for simplicity and performance, it provides a clean interface for managing your email communications.
+simplyMail is a modern, lightweight email client built with Electron. designed for simplicity and performance, it provides a clean interface for managing your email communications.
 
-### Key Features
-- 🎨 Clean, intuitive interface
-- ⚡ Fast and responsive
-- 🔒 Secure email handling
-- 🔄 Auto-updates
-- 💻 Cross-platform support
+### key features.
+- 🎨 clean, intuitive interface.
+- ⚡ fast and responsive.
+- 🔒 secure email handling.
+- 💻 cross-platform support.
 
----
 
-## 📋 System Requirements
+## system requirements.
 
 ### macOS
 - macOS 10.12 (Sierra) or later
 - 64-bit processor
 
----
 
-## 📦 Installation
+## installation
 
 ### macOS
-1. Download the `.dmg` file above
-2. Open the downloaded file
-3. Drag SimplyMail to your Applications folder
-4. Launch from Applications or Spotlight
+1. download the `.dmg` file above.
+2. open the downloaded file.
+3. drag simplyMail to your Applications folder.
+4. launch from Applications or Spotlight.
+
   
----
+## updates.
 
-## 🔄 Updates
+simplyMail includes automatic updates. you'll be notified when new versions are available.
 
-SimplyMail includes automatic updates. You'll be notified when new versions are available.
 
----
+## support.
 
-## 📞 Support
+for support, feedback, or feature requests:
+- 📧 email: getsimplymail@gmail.com
+- 🐛 issues: use the [Issues](https://github.com/rkchan77/simplymail-releases/issues) tab above
 
-For support, feedback, or feature requests:
-- 📧 Email: getsimplymail@gmail.com
-- 🐛 Issues: Use the [Issues](https://github.com/yourusername/simplymail-releases/issues) tab above
-
----
-
-## 📝 Release Notes
+## release notes.
 
 ### v1.0.0 - MVP Release
-- Initial public release
-- Core email functionality
-- Cross-platform support
-- Auto-update system
+- initial public release
+- core email functionality
 
----
 
-## ⚖️ License
+## license
 
-SimplyMail is proprietary software. All rights reserved.
-
----
+simplyMail is proprietary software. all rights reserved.
 
 <p align="center">
   <strong>Built with ❤️ for better email management</strong>
