@@ -34,10 +34,6 @@ SimplyMail is a modern, lightweight email client built with Electron. Designed f
 - macOS 10.12 (Sierra) or later
 - 64-bit processor
 
-### Windows
-- Windows 10 or later
-- 64-bit processor
-
 ---
 
 ## 📦 Installation
