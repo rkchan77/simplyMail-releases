@@ -10,7 +10,7 @@
 
 | Platform | Download |
 |----------|----------|
-| **macOS** | [Download .dmg](https://github.com/rkchan77/simplymail-releases/releases/download/v1.0.0/SimplyMail-1.0.0.dmg) |
+| **macOS** | [Download .dmg](https://github.com/rkchan77/simplymail-releases/releases/download/v0.1.0/SimplyMail-0.1.0.dmg) |
 
 
 ## about simplyMail.
